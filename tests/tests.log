@@ -1,0 +1,266 @@
+DEBUG tests/list_algo_tests.c:57: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:52: 
+----- test_bubble
+DEBUG tests/list_algo_tests.c:57: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:52: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:57: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:52: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:57: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:52: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:57: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:52: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:56: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:51: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:56: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:51: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:56: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:51: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:56: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:51: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:56: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:51: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:56: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:51: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:56: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:51: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:56: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:51: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:56: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:51: 
+----- test_bubble
+DEBUG tests/list_tests.c:155: ----- RUNNING: ./tests/list_tests
+DEBUG tests/list_tests.c:143: 
+----- test_create
+DEBUG tests/list_tests.c:144: 
+----- test_copy
+DEBUG tests/list_tests.c:145: 
+----- test_split
+DEBUG tests/list_tests.c:146: 
+----- test_push_pop
+DEBUG tests/list_tests.c:147: 
+----- test_unshift
+DEBUG tests/list_tests.c:148: 
+----- test_remove
+DEBUG tests/list_tests.c:149: 
+----- test_shift
+DEBUG tests/list_tests.c:150: 
+----- test_destroy
+DEBUG tests/list_algo_tests.c:55: ----- RUNNING: ./tests/list_algo_tests
+DEBUG tests/list_algo_tests.c:50: 
+----- test_bubble
