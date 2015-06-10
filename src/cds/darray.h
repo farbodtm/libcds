@@ -41,7 +41,7 @@ void DArray_clear_destroy(DArray *array);
 
 static inline void DArray_set(DArray* array, int i, void* el) {
   check(i < array->max, "darray attempt to set past max");
-  if (i > array->end) array->end = i;
+  if (i > array->end) array->end = i + 1;
   array->contents[i] = el;
 error:
   return;
