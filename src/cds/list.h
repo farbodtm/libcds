@@ -41,7 +41,7 @@ void* List_remove(List* list, ListNode* node);
 
 // Extra Functions
 void List_copy(List* dest, List* src);
-
+void List_remove_duplicates(List* list);
 void List_swap(ListNode* n1, ListNode* n2);
 
 List* List_join(List* list1, List* list2);
